@@ -31,11 +31,11 @@ The challenge was to build a website for a fictional client. It needed to have t
 
 ### Screenshot
 
-![](./)
+![](./META-4-Thumbnail.png)
 
 ### Links
 
-- Live Site URL: [Mangata-Gallo]([https://caius-scipio.github.io/Battleship/](https://caius-scipio.github.io/Mangata-Gallo/))
+- Live Site URL: [Mangata-Gallo](https://caius-scipio.github.io/Mangata-Gallo/)
 
 ## My process
 
@@ -45,30 +45,6 @@ The challenge was to build a website for a fictional client. It needed to have t
 - CSS custom properties
 - JavaScript
 
-### Changes made
-
-This game was modeled after the Head First Battleship game found within their JavaScript Programming book. However, here are the changes I made to make it uniquely mine:
-
-- Board changes I made:
-  - removed the background image
-  - added the radar sweep and added the expanding circles
-  - reorganized the messages to the top, the board to the middle, and fire button to the bottom
-  - made the game responsive
-  - incresed the size of the game to a 10 x 10 grid
-- Player interaction changes I made:
-  - changed the text input to allow for lower and uppercase inputs
-  - added the ability to use the mouse inputs instead of text inputs
-  - changed the message area to blink the results
-- Hits and Misses changes I made:
-  - added sound effects to each hit and miss
-  - modified the sound effects to restart whith each click
-  - adjusted the volume to a more reasonable level
-- Model changes I made:
-  - increased the number of ships on the board
-- Fire Control changes I made:
-  - allowed for mouse input
-  - prevented further inputs after the game was won
-
 ### What I learned
 
 Making this site taught me a lot about making a website. Some of the key takeaways are using grids, reusing content but styling it differently, selecting better color palettes, and little details such as box shadows that can really liven up a page.
@@ -77,7 +53,7 @@ Here is some code I am particularly proud of, or think was interesting:
 
 ```css
 .saleImage {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1599643477877-530eb83abc8e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://...");
   min-height: 19rem;
   background-position: center;
   background-repeat: no-repeat;
