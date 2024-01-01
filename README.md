@@ -74,7 +74,7 @@ There are many things I enjoy about this site, but looking back, I would like to
 
 ### Useful resources
 
-- META Course Material
+- [META Course Material](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 
 ## Author
 
